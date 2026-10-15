@@ -1,0 +1,7 @@
+1. Question
+Empreinte SHA-1 du certificat de signature de débogage (facultatif) ?
+SHA1: E6:A6:F1:62:2F:B0:38:60:9F:5A:EC:A4:FC:37:97:48:34:99:E4:29 (exemple) -> Gradle(signingReport)
+
+2. Question 
+google-services.json
+
